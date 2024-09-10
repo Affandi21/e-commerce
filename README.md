@@ -52,7 +52,7 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "affandi-shafwan-ecommerce.pbp.cs.ui.
 
 
 **Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta responnya dan jelaskan pada bagan tersebut kaitan antara urls.py, views.py, models.py, dan berkas html.**
-Check out the live version here: [Layot Store](https://github.com/Affandi21/my-first-repo/blob/6805c45ae0e552fca88b36de0917de339f7d5cdc/IMG_1090.jpg)
+Check out the live version here: [Layot Store](https://github.com/Affandi21/e-commerce/blob/262a41a2d4b8b37d896adec86daa9672d41f971a/src/IMG_1090.jpg)
 
 **Jelaskan fungsi git dalam pengembangan perangkat lunak!**
 1. Git adalah tools yang bersifat open source, sehingga dapat digunakan untuk membuat perangkat lunak secara open source. 
